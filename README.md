@@ -1,3 +1,4 @@
+(view the md in Edit mode as a guide to format the file correctly)
 # Godot Engine's native Blender exporter add-on.
 
 Native Godot scene format exporter for [Blender](https://www.blender.org), making the
